@@ -1,0 +1,16 @@
+# How to check Calendar ID:
+# Open Google Calendar -> Hover over the calendar you need and click [...]
+# -> [Settings and sharing] (or [Settings])
+# -> Check [Calendar ID] in [Integrate calendar] section
+calendar_id: 1234567890abcdefghijklmnop@group.calendar.google.com
+# Summary of event in Google Calendar
+summary: SHOWROOM
+events:
+  - start: "12:00"
+    end: "12:25"
+  - start: "15:00"
+    end: "15:25"
+  - start: "18:15"
+    end: "18:40"
+  - start: "21:15"
+    end: "21:59"

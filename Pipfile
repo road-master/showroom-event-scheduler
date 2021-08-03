@@ -1,0 +1,34 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+bump2version = "*"
+# Hotfix for Pipenv's Bug @see https://github.com/pypa/pipenv/issues/4101
+colorama = "*"
+coverage = "*"
+flake8 = "*"
+invoke = "*"
+isort = "*"
+mypy = "*"
+# To graduate discussion about detailed code style of Python
+pipenv-setup = "*"
+pylint = "*"
+# To test
+pytest = "*"
+pytest-mock = "*"
+pytest-resource-path = "*"
+radon = "*"
+types-python-dateutil = "*"
+xenon = "*"
+
+[packages]
+# see: https://developers.google.com/calendar/api/quickstart/python
+google-api-python-client = "*"
+google-auth-httplib2 = "*"
+google-auth-oauthlib = "*"
+# To parse any strings to time
+python-dateutil = "*"
+# To use YAML config file for list of programs to archive
+yamldataclassconfig = "*"

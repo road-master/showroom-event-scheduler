@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  showroom-event-scheduler:
+    build:
+      context: .
+      target: production
+    image: mstmelody/showroom-event-scheduler:latest

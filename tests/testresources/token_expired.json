@@ -1,0 +1,11 @@
+{
+    "token": "abcd.efghijklm-nopqrstuvwxyzABCDEF_GHIJKLMNOPQRSTU_VWXYZ123-4567890abcdefghijklm-nopqrstuvwxyzABCDEFGHIJKLM_NOPQRSTUVWXYZ1234567890abcdef_ghijklmnopqrstuvwxyzABCDE_F",
+    "refresh_token": "a//bcdefghijklmnopqrstuvwxyzABC-DEFGHIJKLMNOPQRSTUVWXYZ12345678900abcdefghijkl-m-nopqrstuvwxyzAB_CDE-FG",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "client_id": "123456789012-abcdefghijklmnopqrstuvwxyzABCDEF.apps.googleusercontent.com",
+    "client_secret": "abcdefghijklmnopqrstuvwx",
+    "scopes": [
+        "https://www.googleapis.com/auth/calendar.events.owned"
+    ],
+    "expiry": "2021-07-22T17:18:15.764475Z"
+}
